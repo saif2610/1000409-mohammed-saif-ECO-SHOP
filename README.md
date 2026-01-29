@@ -279,6 +279,6 @@ Roll No: 1000409
 
 Mentor: Mrs.syedalibeema s 
 
-Subject: Computer Science / AI Project: MedTimer – SHOP IMPACT
+Subject: python programing /AI Project: MedTimer – SHOP IMPACT
 
 School Name: Jain Vidyalaya
