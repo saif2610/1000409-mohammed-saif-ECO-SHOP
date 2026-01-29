@@ -282,3 +282,8 @@ Mentor: Mrs.syedalibeema s
 Subject: python programing /AI Project: MedTimer – SHOP IMPACT
 
 School Name: Jain Vidyalaya
+
+This app was tested by my dear friend Jeyaitya
+*the way the app calculates the carbon 
+realised the real-world problem
+
