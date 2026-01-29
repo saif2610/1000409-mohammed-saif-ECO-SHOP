@@ -268,3 +268,6 @@ Vehicle emission equivalence used for awareness-based calculations
 
 Sustainability & Consumer Awareness Sources
 Educational articles and reports on sustainable shopping, eco-friendly alternatives, and responsible consumption patterns.
+
+Screen shots-
+https://www.canva.com/design/DAG653aGc0I/mfG9l2Z9_YeexlXzw7W8Ig/edit?utm_content=DAG653aGc0I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
