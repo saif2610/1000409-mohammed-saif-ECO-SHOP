@@ -151,7 +151,7 @@ This project is intended for **educational and non-commercial use**.
 You are encouraged to extend and customize it for learning and innovation.
 
 ---
-
+APP LINK:https://100409-mohammed-saif-eco-shop-kmfyy4qww4uzywm7grphie.streamlit.app/ 
 ## Final Statement
 
 EcoShop Impact is not just a shopping simulation.
@@ -271,3 +271,4 @@ Educational articles and reports on sustainable shopping, eco-friendly alternati
 
 Screen shots-
 https://www.canva.com/design/DAG653aGc0I/mfG9l2Z9_YeexlXzw7W8Ig/edit?utm_content=DAG653aGc0I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
