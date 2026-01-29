@@ -274,7 +274,11 @@ https://www.canva.com/design/DAG653aGc0I/mfG9l2Z9_YeexlXzw7W8Ig/edit?utm_content
 
 👨‍💻 Credits Name: N.Mohammed saif
 Class: 11-IB 
+
 Roll No: 1000409 
+
 Mentor: Mrs.syedalibeema s 
+
 Subject: Computer Science / AI Project: MedTimer – SHOP IMPACT
+
 School Name: Jain Vidyalaya
